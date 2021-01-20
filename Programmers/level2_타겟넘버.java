@@ -2,7 +2,7 @@ package Programmers;
 import java.util.*;
 import java.io.*;
 
-public class level2_Ÿ�ٳѹ� {
+public class level2_타겟넘버 {
 	 public int answer=0;
 	    public int solution(int[] numbers, int target) {
 	        dfs(0, 0, target, numbers);
